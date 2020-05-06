@@ -50,8 +50,7 @@ function isDismissed() {
 
     var bannerHTMLIcon = `<div class="e-icon">${iconSVG}</div>`;
 
-    var bannerHTMLText = `<div class="e-text"><a href="${url}" target="_blank">We have temporarily suspended bookings on our platform until
-May 17th, 2020 as a preventive measure against the COVID-19 outbreak" : ""
+    var bannerHTMLText = `<div class="e-text"><a href="${url}" target="_blank">As part of the safety measures undertaken at Converge, we have temporarily suspended all bookings on our platform until May 17, 2020." : ""
     }</a></div>`;
 
     var bannerHTMLClose = `<div class="e-close" onclick="closeBanner()">${closeSVG}</div>`;
